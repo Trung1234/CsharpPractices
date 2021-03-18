@@ -4,4 +4,6 @@
 -  https://www.c-sharpcorner.com/article/import-and-export-data-using-epplus-core/
 -  https://www.c-sharpcorner.com/UploadFile/97fc7a/factory-pattern-in-net-with-an-example/
 -  https://www.c-sharpcorner.com/article/important-tips-to-write-clean-code-in-visual-studio/
--  
+-  https://www.c-sharpcorner.com/UploadFile/b926a6/create-crystal-report-step-by-step-using-sql-database-view/
+-  https://www.c-sharpcorner.com/article/login-and-role-based-custom-authentication-in-asp-net-core-3-1/
+-   
