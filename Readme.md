@@ -12,3 +12,6 @@
 
  ## Interview Tips:
 - https://www.c-sharpcorner.com/UploadFile/puranindia/ASP-NET-MVC-Interview-Questions/
+
+ ## Interview with Ankit Sharma:
+- https://docs.microsoft.com/en-us/archive/blogs/wikininjas/interview-with-a-asp-net-wiki-ninja-and-c-corner-mvp-ankit-sharma
