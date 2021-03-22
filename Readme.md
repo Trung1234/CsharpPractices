@@ -23,6 +23,8 @@
 - https://tedu.com.vn/thu-thuat-lap-trinh/7-buoc-de-thuc-hien-code-review-104.html
  ## Interview Tips:
 - https://www.c-sharpcorner.com/UploadFile/puranindia/ASP-NET-MVC-Interview-Questions/
+- https://www.c-sharpcorner.com/UploadFile/puranindia/C-Sharp-interview-questions/
+- https://www.c-sharpcorner.com/UploadFile/65794e/sql-interview-questions/
 
  ## Interview with C# Corner MVP Ankit Sharma:
 - https://docs.microsoft.com/en-us/archive/blogs/wikininjas/interview-with-a-asp-net-wiki-ninja-and-c-corner-mvp-ankit-sharma
