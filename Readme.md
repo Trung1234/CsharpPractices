@@ -18,6 +18,9 @@
      -  https://www.c-sharpcorner.com/UploadFile/8911c4/singleton-design-pattern-in-C-Sharp/
      -  https://www.c-sharpcorner.com/UploadFile/damubetha/decorator-pattern-in-csharp/
 
+ ## Code review guidelines:
+- https://www.michaelagreiler.com/code-review-checklist-2/
+- https://tedu.com.vn/thu-thuat-lap-trinh/7-buoc-de-thuc-hien-code-review-104.html
  ## Interview Tips:
 - https://www.c-sharpcorner.com/UploadFile/puranindia/ASP-NET-MVC-Interview-Questions/
 
