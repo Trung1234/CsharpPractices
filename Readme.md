@@ -12,6 +12,8 @@
      -  https://www.c-sharpcorner.com/article/using-delegates-to-communication-between-windows-forms/
 -  ### Upload and Read Excel File:  
      -  https://www.codingvila.com/2021/02/upload-and-read-excel-file-in-web-api.html
+-  ### .Net Core:  
+     -  https://tedu.com.vn/lap-trinh-aspnet-core/co-che-dependency-injection-trong-aspnet-core-256.html
 -  ### Design Pattern:  
      -  https://www.c-sharpcorner.com/UploadFile/akkiraju/factory-design-pattern-vs-factory-method-design-pattern/
      -  https://www.c-sharpcorner.com/UploadFile/97fc7a/factory-pattern-in-net-with-an-example/
