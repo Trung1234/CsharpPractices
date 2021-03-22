@@ -6,6 +6,7 @@
 -  https://www.c-sharpcorner.com/UploadFile/b926a6/create-crystal-report-step-by-step-using-sql-database-view/ 
 -  ### 	MVC
      -  https://www.c-sharpcorner.com/article/simple-login-application-using-Asp-Net-mvc/
+     -  https://tedu.com.vn/lap-trinh-aspnet-core/model-validation-trong-aspnet-core-253.html
 -  ### 	Export
      -  https://help.syncfusion.com/wpf/datagrid/export-to-excel
 -  ### 	Using Delegates to Communication Between Windows Forms  
