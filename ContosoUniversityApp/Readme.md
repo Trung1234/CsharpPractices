@@ -1,4 +1,4 @@
-
+# MVC Web App using MVC Pattern and Entity Framework (EF) Core (DB First)
 ## Script to gen DB
 -  ### 	dotnet ef not found in .NET Core 3
      -  dotnet tool install --global dotnet-ef // https://stackoverflow.com/questions/57066856/dotnet-ef-not-found-in-net-core-3
