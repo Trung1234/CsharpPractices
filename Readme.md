@@ -17,11 +17,13 @@
 -  ### .Net Core:  
      -  https://tedu.com.vn/lap-trinh-aspnet-core/co-che-dependency-injection-trong-aspnet-core-256.html
      -  https://www.c-sharpcorner.com/article/login-and-role-based-custom-authentication-in-asp-net-core-3-1/
+     -  https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-5.0
 -  ### Design Pattern:  
      -  https://www.c-sharpcorner.com/UploadFile/akkiraju/factory-design-pattern-vs-factory-method-design-pattern/
      -  https://www.c-sharpcorner.com/UploadFile/97fc7a/factory-pattern-in-net-with-an-example/
      -  https://www.c-sharpcorner.com/UploadFile/8911c4/singleton-design-pattern-in-C-Sharp/
      -  https://www.c-sharpcorner.com/UploadFile/damubetha/decorator-pattern-in-csharp/
+     
 
  ## Code review guidelines:
 - https://www.michaelagreiler.com/code-review-checklist-2/
