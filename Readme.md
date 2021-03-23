@@ -17,6 +17,9 @@
 -  ### .Net Core:  
      -  https://tedu.com.vn/lap-trinh-aspnet-core/co-che-dependency-injection-trong-aspnet-core-256.html
      -  https://www.c-sharpcorner.com/article/login-and-role-based-custom-authentication-in-asp-net-core-3-1/
+     -  https://www.dotnettricks.com/learn/aspnetcore/tips-to-secure-aspnet-core-mvc-applications
+
+-  ### Security:  
      -  https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-5.0
 -  ### Design Pattern:  
      -  https://www.c-sharpcorner.com/UploadFile/akkiraju/factory-design-pattern-vs-factory-method-design-pattern/
