@@ -19,19 +19,20 @@
      -  https://www.c-sharpcorner.com/article/login-and-role-based-custom-authentication-in-asp-net-core-3-1/
      -  https://www.dotnettricks.com/learn/aspnetcore/tips-to-secure-aspnet-core-mvc-applications
 
--  ### Security:  
-     -  https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-5.0
+
 -  ### EntityFramework:  
      -  https://docs.microsoft.com/en-us/ef/core/saving/cascade-delete
-     -  Index: https://docs.microsoft.com/en-us/ef/core/modeling/indexes?tabs=data-annotations
-     -  Relationship: https://docs.microsoft.com/en-us/ef/core/modeling/relationships?tabs=data-annotations%2Cfluent-api-simple-key%2Csimple-key#required-and-optional-relationships
+     -  #### Index: https://docs.microsoft.com/en-us/ef/core/modeling/indexes?tabs=data-annotations
+     -  #### Relationship: https://docs.microsoft.com/en-us/ef/core/modeling/relationships?tabs=data-annotations%2Cfluent-api-simple-key%2Csimple-key#required-and-optional-relationships
 -  ### Design Pattern:  
      -  https://www.c-sharpcorner.com/UploadFile/akkiraju/factory-design-pattern-vs-factory-method-design-pattern/
      -  https://www.c-sharpcorner.com/UploadFile/97fc7a/factory-pattern-in-net-with-an-example/
      -  https://www.c-sharpcorner.com/UploadFile/8911c4/singleton-design-pattern-in-C-Sharp/
      -  https://www.c-sharpcorner.com/UploadFile/damubetha/decorator-pattern-in-csharp/
-     
-
+-  ### Security:  
+     -  https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-5.0     
+-  ### Performace:  
+     -  https://docs.microsoft.com/en-us/ef/core/performance/efficient-querying#tracking-no-tracking-and-identity-resolution
  ## Code review guidelines:
 - https://www.michaelagreiler.com/code-review-checklist-2/
 - https://tedu.com.vn/thu-thuat-lap-trinh/7-buoc-de-thuc-hien-code-review-104.html
