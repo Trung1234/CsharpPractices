@@ -22,6 +22,7 @@
 
 -  ### EntityFramework:  
      -  https://docs.microsoft.com/en-us/ef/core/saving/cascade-delete
+     -  #### Tracking:  https://docs.microsoft.com/en-us/ef/core/querying/tracking
      -  #### Index: https://docs.microsoft.com/en-us/ef/core/modeling/indexes?tabs=data-annotations
      -  #### Relationship: https://docs.microsoft.com/en-us/ef/core/modeling/relationships?tabs=data-annotations%2Cfluent-api-simple-key%2Csimple-key#required-and-optional-relationships
 -  ### Design Pattern:  
