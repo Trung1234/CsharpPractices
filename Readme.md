@@ -21,6 +21,8 @@
 
 -  ### Security:  
      -  https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-5.0
+-  ### EntityFramework:  
+     -  https://docs.microsoft.com/en-us/ef/core/saving/cascade-delete
 -  ### Design Pattern:  
      -  https://www.c-sharpcorner.com/UploadFile/akkiraju/factory-design-pattern-vs-factory-method-design-pattern/
      -  https://www.c-sharpcorner.com/UploadFile/97fc7a/factory-pattern-in-net-with-an-example/
