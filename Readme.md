@@ -7,7 +7,8 @@
 -  ### 	MVC
      -  https://www.c-sharpcorner.com/article/simple-login-application-using-Asp-Net-mvc/
      -  https://tedu.com.vn/lap-trinh-aspnet-core/model-validation-trong-aspnet-core-253.html
-     -  https://www.c-sharpcorner.com/UploadFile/00a8b7/Asp-Net-mvc-life-cycle/
+     -  #### Life cycle: https://www.c-sharpcorner.com/UploadFile/00a8b7/Asp-Net-mvc-life-cycle/
+     -  #### Paging: https://www.reflectionit.nl/blog/2017/paging-in-asp-net-core-mvc-and-entityframework-core
 -  ### 	Export
      -  https://help.syncfusion.com/wpf/datagrid/export-to-excel
 -  ### 	Using Delegates to Communication Between Windows Forms  
