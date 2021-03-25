@@ -10,7 +10,8 @@
      -  #### Life cycle: https://www.c-sharpcorner.com/UploadFile/00a8b7/Asp-Net-mvc-life-cycle/
      -  #### Paging: https://www.reflectionit.nl/blog/2017/paging-in-asp-net-core-mvc-and-entityframework-core
 -  ### 	Export
-     -  https://help.syncfusion.com/wpf/datagrid/export-to-excel
+     -  #### Excel: https://help.syncfusion.com/wpf/datagrid/export-to-excel
+     -  #### Pdf: https://www.dotnetspider.com/resources/29759-Exporting-GridView-PDF.aspx
 -  ### 	Using Delegates to Communication Between Windows Forms  
      -  https://www.c-sharpcorner.com/article/using-delegates-to-communication-between-windows-forms/
 -  ### Upload and Read Excel File:  
