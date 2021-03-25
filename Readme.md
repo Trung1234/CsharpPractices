@@ -23,6 +23,7 @@
 
 
 -  ### EntityFramework:  
+     -  #### Fluent Api: https://trungsieunhan24blog.wordpress.com/2018/11/13/cach-dung-fluent-api-de%CC%89-thay-do%CC%89i-mo-hinh-quan-he%CC%A3/
      -  #### Cascade Delete: https://docs.microsoft.com/en-us/ef/core/saving/cascade-delete
      -  #### Tracking:  https://docs.microsoft.com/en-us/ef/core/querying/tracking
      -  #### Index: https://docs.microsoft.com/en-us/ef/core/modeling/indexes?tabs=data-annotations
