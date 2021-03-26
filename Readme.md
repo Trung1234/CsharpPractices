@@ -4,6 +4,7 @@
 -  https://www.c-sharpcorner.com/article/import-and-export-data-using-epplus-core/
 -  https://www.c-sharpcorner.com/article/important-tips-to-write-clean-code-in-visual-studio/
 -  https://www.c-sharpcorner.com/UploadFile/b926a6/create-crystal-report-step-by-step-using-sql-database-view/ 
+-  #### Callback: https://toidicodedao.com/2015/02/10/series-c-hay-ho-callback-trong-c-delegate-action-predicate-func/
 -  ### 	Async
      -  #### Task: https://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-3-understand-task/
      -  https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
