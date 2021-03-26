@@ -37,6 +37,8 @@
      -  https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-5.0     
 -  ### Performace:  
      -  https://docs.microsoft.com/en-us/ef/core/performance/efficient-querying#tracking-no-tracking-and-identity-resolution
+-  ### WPF:  
+     -  #### Live Visual Tree : https://docs.microsoft.com/en-us/visualstudio/xaml-tools/inspect-xaml-properties-while-debugging?view=vs-2019
  ## Code review guidelines:
 - https://www.michaelagreiler.com/code-review-checklist-2/
 - https://tedu.com.vn/thu-thuat-lap-trinh/7-buoc-de-thuc-hien-code-review-104.html
