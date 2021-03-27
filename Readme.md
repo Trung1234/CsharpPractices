@@ -54,10 +54,7 @@
 
  ## Interview with C# Corner MVP Ankit Sharma:
 - https://docs.microsoft.com/en-us/archive/blogs/wikininjas/interview-with-a-asp-net-wiki-ninja-and-c-corner-mvp-ankit-sharma
- ## Interview with C# Corner MVP Ankit Sharma:
-| animal | weight | color  |
-|--------|-------:|:------:|
-| dog    | 30lb   | tan    |
-| dog    | 85lb   | black  |
-| cat    | 18lb   | calico |
+ ## difference between GET and POST method:
+- https://www.edureka.co/blog/get-and-post-method/
+
 
