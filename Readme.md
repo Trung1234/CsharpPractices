@@ -54,3 +54,16 @@
 
  ## Interview with C# Corner MVP Ankit Sharma:
 - https://docs.microsoft.com/en-us/archive/blogs/wikininjas/interview-with-a-asp-net-wiki-ninja-and-c-corner-mvp-ankit-sharma
+ ## Interview with C# Corner MVP Ankit Sharma:
+PARAMETERS	POST	GET
+Data Parameters	It does not store and include the data parameters in the URL or anywhere on the client system.	It includes the data parameters in the URL which can store in the browser history and the security of the client can be compromised.
+Bookmark	As the data does not include in the URL so there is no concept of Bookmark.	The get request data can be Bookmarked.
+Reload the Page	The data will be resubmitted.	The page will be re-executed but not re-submitted. It does not send any request to the host because it is saved in the cache memory.
+Security	POST request provides security over the data.	GET request does not provide any security.
+Cache	No cache.	There can be many caches.
+Data Length	There is no limit for data length.	It has a data length limit of 2048 characters.
+Data Type	All data types are allowed.	Only accepts ASCII characters.
+Data Visibility	In the POST method, data is not visible to everyone.	Data is visible to everyone in the GET method.
+Use	We use the POST method with sensitive data like a password.	GET is used usually with insensitive data.
+
+
