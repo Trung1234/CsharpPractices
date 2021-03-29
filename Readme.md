@@ -1,6 +1,5 @@
  ## Reference: 
-
--  https://social.technet.microsoft.com/wiki/contents/articles/36250.asp-net-core-building-online-poll-system.aspx
+-  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
 -  https://www.c-sharpcorner.com/article/import-and-export-data-using-epplus-core/
 -  https://www.c-sharpcorner.com/article/important-tips-to-write-clean-code-in-visual-studio/
 -  https://www.c-sharpcorner.com/UploadFile/b926a6/create-crystal-report-step-by-step-using-sql-database-view/ 
@@ -21,6 +20,7 @@
 -  ### Upload and Read Excel File:  
      -  https://www.codingvila.com/2021/02/upload-and-read-excel-file-in-web-api.html
 -  ### .Net Core:  
+     -  https://social.technet.microsoft.com/wiki/contents/articles/36250.asp-net-core-building-online-poll-system.aspx
      -  https://tedu.com.vn/lap-trinh-aspnet-core/co-che-dependency-injection-trong-aspnet-core-256.html
      -  https://www.c-sharpcorner.com/article/login-and-role-based-custom-authentication-in-asp-net-core-3-1/
      -  https://www.dotnettricks.com/learn/aspnetcore/tips-to-secure-aspnet-core-mvc-applications
