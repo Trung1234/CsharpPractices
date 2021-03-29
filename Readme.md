@@ -3,6 +3,7 @@
 -  https://www.c-sharpcorner.com/article/import-and-export-data-using-epplus-core/
 -  https://www.c-sharpcorner.com/article/important-tips-to-write-clean-code-in-visual-studio/
 -  https://www.c-sharpcorner.com/UploadFile/b926a6/create-crystal-report-step-by-step-using-sql-database-view/ 
+-  https://tedu.com.vn/lap-trinh-c/su-khac-nhau-giua-ienumerable-va-iqueryable-35.html
 -  #### Callback: https://toidicodedao.com/2015/02/10/series-c-hay-ho-callback-trong-c-delegate-action-predicate-func/
 -  ### 	Async
      -  #### Task: https://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-3-understand-task/
