@@ -24,6 +24,7 @@
 -  ### Upload and Read Excel File:  
      -  https://www.codingvila.com/2021/02/upload-and-read-excel-file-in-web-api.html
 -  ### .Net Core:  
+     -  https://social.technet.microsoft.com/wiki/contents/articles/51363.asp-net-core-2-0-cookie-authentication.aspx
      -  https://social.technet.microsoft.com/wiki/contents/articles/36250.asp-net-core-building-online-poll-system.aspx
      -  https://tedu.com.vn/lap-trinh-aspnet-core/co-che-dependency-injection-trong-aspnet-core-256.html
      -  https://www.c-sharpcorner.com/article/login-and-role-based-custom-authentication-in-asp-net-core-3-1/
