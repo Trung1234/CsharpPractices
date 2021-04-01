@@ -11,5 +11,6 @@
 	
 ## Refernce
 -  https://docs.microsoft.com/vi-vn/aspnet/core/data/ef-mvc/crud?view=aspnetcore-3.1
+-  https://forums.asp.net/t/2167230.aspx?showing+modal+pop+up+in+asp+net+mvc+as+partial+view
 
 

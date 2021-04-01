@@ -34,25 +34,30 @@ namespace ContosoUniversityApp.Controllers
             return View(await students.AsNoTracking().ToListAsync());
         }
 
-        // GET: Students/Details/5
+        /// <summary>
+        /// Detail of Student
+        /// GET: Students/Details/5
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
             {
-                return NotFound();
+                return RedirectToAction("Error", "Home");
             }
             //query Enrollments and  Course related to Student
             var student = await _context.Students.Include(s=>s.Enrollments)
                 .ThenInclude(e=>e.Course)
                 .AsNoTracking()
                 .FirstOrDefaultAsync(m => m.ID == id);
+            //Home Error
             //AsNoTracking method improves performance in scenarios 
-            //where the entities returned won't be updated in the current context's lifetime.
+            ////where the entities returned won't be updated in the current context's lifetime.
             if (student == null)
             {
-                return NotFound();
+                return RedirectToAction("Error" , "Home");
             }
-
             return View(student);
         }
 
