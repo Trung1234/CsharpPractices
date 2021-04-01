@@ -7,40 +7,68 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ContosoUniversityApp.Data;
 using ContosoUniversityApp.Models;
+using ContosoUniversityApp.Services;
 
 namespace ContosoUniversityApp.Controllers
 {
     public class StudentsController : Controller
     {
         private readonly SchoolContext _context;
+        private readonly IStudentService _service;
 
-        public StudentsController(SchoolContext context)
+        public StudentsController(IStudentService service, SchoolContext context)
         {
             _context = context;
+            _service = service;
         }
 
         // GET: Students
-        public async Task<IActionResult> Index(string searchString)
+        //public async Task<IActionResult> Index(string searchString)
+        //{
+        //    ViewData["CurrentFilter"] = searchString;
+
+        //    var students = from s in _context.Students
+        //                   select s;
+        //    if (!String.IsNullOrEmpty(searchString))
+        //    {
+        //        students = students.Where(s => s.LastName.Contains(searchString)
+        //                               || s.FirstMidName.Contains(searchString));
+        //    }
+
+        //    return View(await students.AsNoTracking().ToListAsync());
+        //}
+
+        public async Task<IActionResult> Index(string searchString ,int? page = 0)
         {
-            ViewData["CurrentFilter"] = searchString;
-
-            var students = from s in _context.Students
-                           select s;
-            if (!String.IsNullOrEmpty(searchString))
+            int limit = 4;
+            int start;
+            if (page == 0)
             {
-                students = students.Where(s => s.LastName.Contains(searchString)
-                                       || s.FirstMidName.Contains(searchString));
+                page = 1;
             }
-            return View(await students.AsNoTracking().ToListAsync());
-        }
+            _service.FilterList(searchString);
+            start = (int)(page - 1) * limit;
 
-        /// <summary>
-        /// Detail of Student
-        /// GET: Students/Details/5
-        /// </summary>
-        /// <param name="id"></param>
-        /// <returns></returns>
-        public async Task<IActionResult> Details(int? id)
+            ViewBag.pageCurrent = page;
+
+            int totalProduct = _service.TotalStudent();
+
+            ViewBag.totalProduct = totalProduct;
+
+            ViewBag.numberPage = _service.NumberPage(totalProduct, limit);
+            var students = await _service.PaginationStudent(start, limit);
+            return View(students);
+        }
+     
+
+
+    /// <summary>
+    /// Detail of Student
+    /// GET: Students/Details/5
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
+    public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
             {
