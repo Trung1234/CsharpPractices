@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ContosoUniversityApp.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20210321064602_InitialCreate")]
+    [Migration("20210402030129_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -81,6 +81,34 @@ namespace ContosoUniversityApp.Migrations
                     b.HasKey("ID");
 
                     b.ToTable("Student");
+                });
+
+            modelBuilder.Entity("ContosoUniversityApp.Models.UserDetails", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserID")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("sysUser");
                 });
 
             modelBuilder.Entity("ContosoUniversityApp.Models.Enrollment", b =>

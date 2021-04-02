@@ -18,10 +18,12 @@ namespace ContosoUniversityApp.Data
             modelBuilder.Entity<Course>().ToTable("Course");
             modelBuilder.Entity<Enrollment>().ToTable("Enrollment");
             modelBuilder.Entity<Student>().ToTable("Student");
+            modelBuilder.Entity<UserDetails>().ToTable("sysUser");
         }
 
         public DbSet<Course> Courses { get; set; }
         public DbSet<Enrollment> Enrollments { get; set; }
         public DbSet<Student> Students { get; set; }
+        public DbSet<UserDetails> UserDetails { get; set; }
     }
 }

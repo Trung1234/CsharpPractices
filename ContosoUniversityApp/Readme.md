@@ -11,6 +11,8 @@
 	
 ## Refernce
 -  https://docs.microsoft.com/vi-vn/aspnet/core/data/ef-mvc/crud?view=aspnetcore-3.1
+- https://social.technet.microsoft.com/wiki/contents/articles/51363.asp-net-core-2-0-cookie-authentication.aspx
 -  https://forums.asp.net/t/2167230.aspx?showing+modal+pop+up+in+asp+net+mvc+as+partial+view
+
 
 

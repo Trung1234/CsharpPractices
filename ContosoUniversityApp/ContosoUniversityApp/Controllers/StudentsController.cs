@@ -82,10 +82,10 @@ namespace ContosoUniversityApp.Controllers
             //Home Error
             //AsNoTracking method improves performance in scenarios 
             ////where the entities returned won't be updated in the current context's lifetime.
-            if (student == null)
-            {
-                return RedirectToAction("Error" , "Home");
-            }
+            //if (student == null)
+            //{
+            //    return RedirectToAction("Error" , "Home");
+            //}
             return View(student);
         }
 

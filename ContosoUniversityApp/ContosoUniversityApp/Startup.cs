@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using ContosoUniversityApp.Data;
 using ContosoUniversityApp.Services;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -29,13 +30,18 @@ namespace ContosoUniversityApp
         {
             services.AddControllersWithViews();
             services.AddScoped<IStudentService, StudentService>();
-
+            services.AddScoped<IUserService, UserService>();
             services.Configure<CookiePolicyOptions>(options =>
             {
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                    .AddCookie(options =>
+                    {
+                        options.LoginPath = "/User/UserLogin/";
 
+                    });
             services.AddDbContext<SchoolContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         }
@@ -48,11 +54,11 @@ namespace ContosoUniversityApp
                 app.UseDeveloperExceptionPage();
             }
             else
-            {
-                app.UseExceptionHandler("/Home/Error");
+            {                
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+            app.UseExceptionHandler("/Home/Error");
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
@@ -64,7 +70,7 @@ namespace ContosoUniversityApp
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=User}/{action=UserLogin}/{id?}");
             });
         }
     }
