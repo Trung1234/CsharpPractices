@@ -1,7 +1,6 @@
  ## Reference: 
 -  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
--  https://www.c-sharpcorner.com/article/import-and-export-data-using-epplus-core/
--  https://www.c-sharpcorner.com/article/important-tips-to-write-clean-code-in-visual-studio/
+-  ### String and StringBuilder: https://www.c-sharpcorner.com/UploadFile/19b1bd/comparison-of-string-and-stringbuilder-in-C-Sharp/
 -  https://www.c-sharpcorner.com/UploadFile/b926a6/create-crystal-report-step-by-step-using-sql-database-view/ 
 -  #### Callback: https://toidicodedao.com/2015/02/10/series-c-hay-ho-callback-trong-c-delegate-action-predicate-func/
 -  ### 	Async
@@ -19,6 +18,7 @@
      -  #### Paging: https://www.reflectionit.nl/blog/2017/paging-in-asp-net-core-mvc-and-entityframework-core
 -  ### 	Export
      -  #### Excel: https://help.syncfusion.com/wpf/datagrid/export-to-excel
+     -  #### Epplus: https://www.c-sharpcorner.com/article/import-and-export-data-using-epplus-core/
      -  #### Pdf: https://www.dotnetspider.com/resources/29759-Exporting-GridView-PDF.aspx
 -  ### 	Using Delegates to Communication Between Windows Forms  
      -  https://www.c-sharpcorner.com/article/using-delegates-to-communication-between-windows-forms/
@@ -51,6 +51,7 @@
      -  #### Live Visual Tree : https://docs.microsoft.com/en-us/visualstudio/xaml-tools/inspect-xaml-properties-while-debugging?view=vs-2019
  ## Code review guidelines:
 - https://www.michaelagreiler.com/code-review-checklist-2/
+- https://www.c-sharpcorner.com/article/important-tips-to-write-clean-code-in-visual-studio/
 - https://tedu.com.vn/thu-thuat-lap-trinh/7-buoc-de-thuc-hien-code-review-104.html
  ## Interview Tips:
 - https://www.c-sharpcorner.com/UploadFile/puranindia/ASP-NET-MVC-Interview-Questions/
