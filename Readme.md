@@ -1,6 +1,7 @@
  ## Reference: 
 -  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
--  ### String and StringBuilder: https://www.c-sharpcorner.com/UploadFile/19b1bd/comparison-of-string-and-stringbuilder-in-C-Sharp/
+-  ####  == and Equals(): https://www.c-sharpcorner.com/UploadFile/3d39b4/difference-between-operator-and-equals-method-in-C-Sharp/
+-  #### String and StringBuilder: https://www.c-sharpcorner.com/UploadFile/19b1bd/comparison-of-string-and-stringbuilder-in-C-Sharp/
 -  https://www.c-sharpcorner.com/UploadFile/b926a6/create-crystal-report-step-by-step-using-sql-database-view/ 
 -  #### Callback: https://toidicodedao.com/2015/02/10/series-c-hay-ho-callback-trong-c-delegate-action-predicate-func/
 -  ### 	Async
