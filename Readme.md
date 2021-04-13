@@ -46,6 +46,7 @@
      -  https://www.c-sharpcorner.com/UploadFile/97fc7a/factory-pattern-in-net-with-an-example/
      -  https://www.c-sharpcorner.com/UploadFile/8911c4/singleton-design-pattern-in-C-Sharp/
      -  https://www.c-sharpcorner.com/UploadFile/damubetha/decorator-pattern-in-csharp/
+     -  #### Template Method: https://www.c-sharpcorner.com/UploadFile/b1df45/template-design-pattern-in-C-Sharp/
 -  ### Security:  
      -  https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-5.0     
 -  ### Performace:  
