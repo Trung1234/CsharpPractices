@@ -10,7 +10,8 @@
 -  ### 	Linq
      -  https://www.c-sharpcorner.com/UploadFile/a20beb/ienumerable-vs-iqueryable-in-linq/
      -  https://tedu.com.vn/lap-trinh-c/su-khac-nhau-giua-ienumerable-va-iqueryable-35.html
-     -  https://tedu.com.vn/lap-trinh-aspnet/tim-hieu-ve-lazyloading-va-earger-loading-trong-entity-framework-120.html
+     -  #### Earger loading: https://tedu.com.vn/lap-trinh-aspnet/tim-hieu-ve-lazyloading-va-earger-loading-trong-entity-framework-120.html
+     -  #### Left join: https://www.c-sharpcorner.com/blogs/working-with-left-outer-join-using-lambda-and-linq
 -  ### 	MVC
      -  https://www.c-sharpcorner.com/article/simple-login-application-using-Asp-Net-mvc/
      -  https://tedu.com.vn/lap-trinh-aspnet-core/model-validation-trong-aspnet-core-253.html
