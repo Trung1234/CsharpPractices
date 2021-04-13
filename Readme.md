@@ -14,6 +14,7 @@
      -  #### Left join: https://www.c-sharpcorner.com/blogs/working-with-left-outer-join-using-lambda-and-linq
 -  ### 	MVC
      -  https://www.c-sharpcorner.com/article/simple-login-application-using-Asp-Net-mvc/
+     -  https://www.codaffection.com/asp-net-core-article/jquery-ajax-crud-in-asp-net-core-mvc/
      -  https://tedu.com.vn/lap-trinh-aspnet-core/model-validation-trong-aspnet-core-253.html
      -  #### SendMail: https://www.webtrainingroom.com/aspnetmvc/sendemail
      -  #### Intercepter: https://www.codeproject.com/Articles/469251/ASP-NET-MVC-controller-action-with-Interceptor-pat
@@ -34,8 +35,6 @@
      -  https://tedu.com.vn/lap-trinh-aspnet-core/co-che-dependency-injection-trong-aspnet-core-256.html
      -  https://www.c-sharpcorner.com/article/login-and-role-based-custom-authentication-in-asp-net-core-3-1/
      -  https://www.dotnettricks.com/learn/aspnetcore/tips-to-secure-aspnet-core-mvc-applications
-
-
 -  ### EntityFramework:  
      -  #### Fluent Api: https://trungsieunhan24blog.wordpress.com/2018/11/13/cach-dung-fluent-api-de%CC%89-thay-do%CC%89i-mo-hinh-quan-he%CC%A3/
      -  #### Cascade Delete: https://docs.microsoft.com/en-us/ef/core/saving/cascade-delete
