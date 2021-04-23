@@ -1,15 +1,16 @@
  ## Reference: 
 -  ### 	Rules for writing and reviewing code
      -  #### Rule 1: Follow the Coding convention
-     -  #### Rule 2: Follow SOLID Principles
-     -  #### Rule 3: Don't Repeat Yourself
-     -  #### Rule 4: Create Descriptive Names
-     -  #### Rule 5: Be Consistent (nhất quán)
-     -  #### Rule 6: Do Code run fast (For example use Eager loading to load related entities )
-     -  #### Rule 7: Avoid Security Pitfalls (SQL Injection, cross-site scripting)
-     -  #### Rule 8: Use Efficient Data Structures and Algorithms
-     -  #### Rule 9: Comment and Document
-     -  #### Rule 10: Check for Errors and Respond to Them
+     -  #### Rule 2: Is code easy to understandI
+     -  #### Rule 3: Follow SOLID Principles
+     -  #### Rule 4: Don't Repeat Yourself => generalize by abstract class, interface, method
+     -  #### Rule 5: Create Descriptive Names
+     -  #### Rule 6: Be Consistent (nhất quán)
+     -  #### Rule 7: Do Code run fast (For example use Eager loading to load related entities )
+     -  #### Rule 8: Avoid Security Pitfalls (SQL Injection, cross-site scripting)
+     -  #### Rule 9: Use Efficient Data Structures and Algorithms
+     -  #### Rule 10: Comment and Document
+     -  #### Rule 11: Check for Errors and Respond to Them
      -  https://www.informit.com/articles/article.aspx?p=2223710
 -  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
 -  ####  == and Equals(): https://www.c-sharpcorner.com/UploadFile/3d39b4/difference-between-operator-and-equals-method-in-C-Sharp/
