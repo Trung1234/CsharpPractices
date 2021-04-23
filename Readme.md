@@ -5,6 +5,7 @@
      -  #### Rule 3: Don't Repeat Yourself
      -  #### Rule 4: Create Descriptive Names
      -  #### Rule 5: Be Consistent (nhất quán)
+     -  #### Rule 6: Do Code run fast (For example use Eager loading to load related entities )
      -  #### Rule 6: Avoid Security Pitfalls (SQL Injection, cross-site scripting)
      -  #### Rule 7: Use Efficient Data Structures and Algorithms
      -  #### Rule 8: Comment and Document
