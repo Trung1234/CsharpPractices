@@ -1,4 +1,13 @@
  ## Reference: 
+-  ### 	Rules for writing and reviewing code
+     -  #### Rule 1: Follow the Coding convention
+     -  #### Rule 2: Create Descriptive Names
+     -  #### Rule 3: Be Consistent (nhất quán)
+     -  #### Rule 4: Avoid Security Pitfalls (SQL Injection, cross-site scripting)
+     -  #### Rule 5: Use Efficient Data Structures and Algorithms
+     -  #### Rule 6: Comment and Document
+     -  #### Rule 7: Check for Errors and Respond to Them
+     -  https://www.informit.com/articles/article.aspx?p=2223710
 -  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
 -  ####  == and Equals(): https://www.c-sharpcorner.com/UploadFile/3d39b4/difference-between-operator-and-equals-method-in-C-Sharp/
 -  #### String and StringBuilder: https://www.c-sharpcorner.com/UploadFile/19b1bd/comparison-of-string-and-stringbuilder-in-C-Sharp/
