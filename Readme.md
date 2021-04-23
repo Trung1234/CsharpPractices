@@ -6,10 +6,10 @@
      -  #### Rule 4: Create Descriptive Names
      -  #### Rule 5: Be Consistent (nhất quán)
      -  #### Rule 6: Do Code run fast (For example use Eager loading to load related entities )
-     -  #### Rule 6: Avoid Security Pitfalls (SQL Injection, cross-site scripting)
-     -  #### Rule 7: Use Efficient Data Structures and Algorithms
-     -  #### Rule 8: Comment and Document
-     -  #### Rule 9: Check for Errors and Respond to Them
+     -  #### Rule 7: Avoid Security Pitfalls (SQL Injection, cross-site scripting)
+     -  #### Rule 8: Use Efficient Data Structures and Algorithms
+     -  #### Rule 9: Comment and Document
+     -  #### Rule 10: Check for Errors and Respond to Them
      -  https://www.informit.com/articles/article.aspx?p=2223710
 -  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
 -  ####  == and Equals(): https://www.c-sharpcorner.com/UploadFile/3d39b4/difference-between-operator-and-equals-method-in-C-Sharp/
