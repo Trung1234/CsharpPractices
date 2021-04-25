@@ -1,7 +1,7 @@
  ## Reference: 
 -  ### 	Rules for writing and reviewing code
      -  #### Rule 1: Follow the Coding convention
-     -  #### Rule 2: Is code easy to understandI
+     -  #### Rule 2: Is code easy to understand
      -  #### Rule 3: Follow SOLID Principles
      -  #### Rule 4: Don't Repeat Yourself => generalize by abstract class, interface, method
      -  #### Rule 5: Create Descriptive Names
