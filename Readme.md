@@ -13,6 +13,7 @@
      -  #### Rule 11: Check for Errors and Respond to Them
      -  https://www.informit.com/articles/article.aspx?p=2223710
 -  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
+-  #### Data encryption: https://tedu.com.vn/bao-mat/tong-quan-cac-loai-thuat-toan-ma-hoa-du-lieu-106.html
 -  #### Has256: https://www.c-sharpcorner.com/article/compute-sha256-hash-in-c-sharp/
 -  ####  == and Equals(): https://www.c-sharpcorner.com/UploadFile/3d39b4/difference-between-operator-and-equals-method-in-C-Sharp/
 -  #### String and StringBuilder: https://www.c-sharpcorner.com/UploadFile/19b1bd/comparison-of-string-and-stringbuilder-in-C-Sharp/
