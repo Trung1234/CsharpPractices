@@ -1,6 +1,6 @@
  ## Reference: 
 -  ### 	Rules for writing and reviewing code
-     -  #### Rule 1: Follow the Coding convention
+     -  #### Rule 1: Formatting is king     
      -  #### Rule 2: Is code easy to understand
      -  #### Rule 3: Follow SOLID Principles
      -  #### Rule 4: Don't Repeat Yourself => generalize by abstract class, interface, method
@@ -11,6 +11,7 @@
      -  #### Rule 9: Use Efficient Data Structures and Algorithms
      -  #### Rule 10: Comment and Document
      -  #### Rule 11: Check for Errors and Respond to Them
+     -  #### Rule 12: Follow the Coding convention
      -  https://www.informit.com/articles/article.aspx?p=2223710
 -  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
 -  #### Data encryption: https://tedu.com.vn/bao-mat/tong-quan-cac-loai-thuat-toan-ma-hoa-du-lieu-106.html
