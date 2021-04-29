@@ -13,7 +13,8 @@
      -  #### Rule 11: Check for Errors and Respond to Them
      -  #### Rule 12: Follow the Coding convention
      -  #### Rule 13: Avoid Deep Nesting
-     -  #### Rule 14: Avoid Magic Number https://stackoverflow.com/questions/47882/what-is-a-magic-number-and-why-is-it-bad
+     -  #### Rule 14: Use ternary operator instead of If else
+     -  #### Rule 15: Avoid Magic Number https://stackoverflow.com/questions/47882/what-is-a-magic-number-and-why-is-it-bad
      -  https://www.informit.com/articles/article.aspx?p=2223710
      -  https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
 -  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
