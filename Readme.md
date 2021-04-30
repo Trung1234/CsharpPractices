@@ -22,7 +22,9 @@
       -  ### https://www.informit.com/articles/article.aspx?p=2223710
       -  ### https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
   </details>  
-        
+  -  #### Architecture and Design Pattern: https://github.com/Trung1234/Csharp4/tree/main/ArchitecturePractice
+  -  #### MVC Best Practice: https://github.com/Trung1234/Csharp4/tree/main/MVCBestPractice
+  -  #### SQL Best Practice: https://github.com/Trung1234/Csharp4/tree/main/SQlPractice
   -  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
   -  #### Data encryption: https://tedu.com.vn/bao-mat/tong-quan-cac-loai-thuat-toan-ma-hoa-du-lieu-106.html
   -  #### Has256: https://www.c-sharpcorner.com/article/compute-sha256-hash-in-c-sharp/
