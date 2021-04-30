@@ -1,0 +1,4 @@
+Quên không Restart Server
+Nguyên nhân thế này, em note lại
+1. Khi cài không add quyền của User hiện tại vào quá trình cài.
+2. Không chọn chế độ Mix mode khi cài nên tài khoản sa(Super Admin) bị vô hiệu
