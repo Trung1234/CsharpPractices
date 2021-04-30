@@ -1,4 +1,4 @@
- ## Reference: 
+ ## References: 
  - ### Rules for writing and reviewing code
    <details>
     <summary>Click to expand</summary>
