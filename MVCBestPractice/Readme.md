@@ -12,8 +12,13 @@
      -  https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-5.0     
  -  ### Performace:  
      -  https://docs.microsoft.com/en-us/ef/core/performance/efficient-querying#tracking-no-tracking-and-identity-resolution
-
- ## difference between GET and POST method:
+### .Net Core:  
+ -  https://social.technet.microsoft.com/wiki/contents/articles/51363.asp-net-core-2-0-cookie-authentication.aspx
+ -  https://social.technet.microsoft.com/wiki/contents/articles/36250.asp-net-core-building-online-poll-system.aspx
+ -  https://tedu.com.vn/lap-trinh-aspnet-core/co-che-dependency-injection-trong-aspnet-core-256.html
+ -  https://www.c-sharpcorner.com/article/login-and-role-based-custom-authentication-in-asp-net-core-3-1/
+ -  https://www.dotnettricks.com/learn/aspnetcore/tips-to-secure-aspnet-core-mvc-applications
+ ## Differences between GET and POST method:
  - https://www.edureka.co/blog/get-and-post-method/
 
 
