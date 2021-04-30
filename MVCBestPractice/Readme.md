@@ -1,4 +1,4 @@
- ## Reference: 
+ ## References: 
  ### 	MVC
  -  https://www.c-sharpcorner.com/article/simple-login-application-using-Asp-Net-mvc/
  -  https://www.codaffection.com/asp-net-core-article/jquery-ajax-crud-in-asp-net-core-mvc/
