@@ -1,20 +1,25 @@
  ## Reference: 
--  ### 	Rules for writing and reviewing code
-     -  #### Rule 1: Formatting is king     
-     -  #### Rule 2: Is code easy to understand
-     -  #### Rule 3: Follow SOLID Principles
-     -  #### Rule 4: Don't Repeat Yourself => generalize by abstract class, interface, method
-     -  #### Rule 5: Create meaningful names
-     -  #### Rule 6: Be Consistent (nhất quán)
-     -  #### Rule 7: Do Code run fast (For example use Eager loading to load related entities )
-     -  #### Rule 8: Avoid Security Pitfalls (SQL Injection, cross-site scripting)
-     -  #### Rule 9: Use Efficient Data Structures and Algorithms
-     -  #### Rule 10: Comment and Document
-     -  #### Rule 11: Check for Errors and Respond to Them
-     -  #### Rule 12: Follow the Coding convention
-     -  #### Rule 13: Avoid Deep Nesting
-     -  #### Rule 14: Use ternary operator instead of If else
-     -  #### Rule 15: Avoid Magic Number https://stackoverflow.com/questions/47882/what-is-a-magic-number-and-why-is-it-bad
+ 
+ <details>
+  <summary>### 	Rules for writing and reviewing code</summary>
+  
+ -  #### Rule 1: Formatting is king     
+ -  #### Rule 2: Is code easy to understand
+ -  #### Rule 3: Follow SOLID Principles
+ -  #### Rule 4: Don't Repeat Yourself => generalize by abstract class, interface, method
+ -  #### Rule 5: Create meaningful names
+ -  #### Rule 6: Be Consistent (nhất quán)
+ -  #### Rule 7: Do Code run fast (For example use Eager loading to load related entities )
+ -  #### Rule 8: Avoid Security Pitfalls (SQL Injection, cross-site scripting)
+ -  #### Rule 9: Use Efficient Data Structures and Algorithms
+ -  #### Rule 10: Comment and Document
+ -  #### Rule 11: Check for Errors and Respond to Them
+ -  #### Rule 12: Follow the Coding convention
+ -  #### Rule 13: Avoid Deep Nesting
+ -  #### Rule 14: Use ternary operator instead of If else
+ -  #### Rule 15: Avoid Magic Number https://stackoverflow.com/questions/47882/what-is-a-magic-number-and-why-is-it-bad
+</details>  
+     
      -  https://www.informit.com/articles/article.aspx?p=2223710
      -  https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
 -  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
