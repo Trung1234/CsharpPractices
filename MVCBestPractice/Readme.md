@@ -1,7 +1,7 @@
  ## References: 
  ### 	MVC
  -  https://www.c-sharpcorner.com/article/simple-login-application-using-Asp-Net-mvc/
- -  https://www.codaffection.com/asp-net-core-article/jquery-ajax-crud-in-asp-net-core-mvc/
+ -  ### Jquery ajax: https://www.codaffection.com/asp-net-core-article/jquery-ajax-crud-in-asp-net-core-mvc/
  -  https://tedu.com.vn/lap-trinh-aspnet-core/model-validation-trong-aspnet-core-253.html
  -  #### SendMail: https://www.webtrainingroom.com/aspnetmvc/sendemail
  -  #### Intercepter: https://www.codeproject.com/Articles/469251/ASP-NET-MVC-controller-action-with-Interceptor-pat
