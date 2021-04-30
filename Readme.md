@@ -32,11 +32,13 @@
   -  #### Callback: https://toidicodedao.com/2015/02/10/series-c-hay-ho-callback-trong-c-delegate-action-predicate-func/
   <details>
     <summary>Async</summary>
+ 
    -  #### Task: https://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-3-understand-task/
    -  https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
   </details>
   <details>
     <summary>Linq</summary>
+ 
    -  https://www.c-sharpcorner.com/UploadFile/a20beb/ienumerable-vs-iqueryable-in-linq/k/
    -  https://tedu.com.vn/lap-trinh-c/su-khac-nhau-giua-ienumerable-va-iqueryable-35.html
    -  #### Earger loading: https://tedu.com.vn/lap-trinh-aspnet/tim-hieu-ve-lazyloading-va-earger-loading-trong-entity-framework-120.html
