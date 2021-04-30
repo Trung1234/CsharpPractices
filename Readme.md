@@ -1,5 +1,5 @@
  ## Reference: 
- - ## Rules for writing and reviewing code
+ - ### Rules for writing and reviewing code
    <details>
     <summary>Click to expand</summary>
 
@@ -30,8 +30,9 @@
   -  #### String and StringBuilder: https://www.c-sharpcorner.com/UploadFile/19b1bd/comparison-of-string-and-stringbuilder-in-C-Sharp/
   -  https://www.c-sharpcorner.com/UploadFile/b926a6/create-crystal-report-step-by-step-using-sql-database-view/ 
   -  #### Callback: https://toidicodedao.com/2015/02/10/series-c-hay-ho-callback-trong-c-delegate-action-predicate-func/
+- ### Async
   <details>
-    <summary>Async</summary>
+    <summary>Click to expand</summary>
  
    -  #### Task: https://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-3-understand-task/
    -  https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
