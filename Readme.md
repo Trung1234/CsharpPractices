@@ -22,6 +22,7 @@
       -  ### https://www.informit.com/articles/article.aspx?p=2223710
       -  ### https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
   </details>  
+  
   -  #### Architecture and Design Pattern: https://github.com/Trung1234/Csharp4/tree/main/ArchitecturePractice
   -  #### MVC Best Practice: https://github.com/Trung1234/Csharp4/tree/main/MVCBestPractice
   -  #### SQL Best Practice: https://github.com/Trung1234/Csharp4/tree/main/SQlPractice
@@ -39,6 +40,7 @@
    -  #### Task: https://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-3-understand-task/
    -  https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
   </details>
+  
 - ### Linq
   <details>
     <summary>Click to expand</summary>
