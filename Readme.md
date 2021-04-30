@@ -1,7 +1,7 @@
  ## Reference: 
- 
+ - ## Rules for writing and reviewing code
    <details>
-    <summary>Rules for writing and reviewing code</summary>
+    <summary>Click to expand</summary>
 
    -  #### Rule 1: Formatting is king     
    -  #### Rule 2: Is code easy to understand
