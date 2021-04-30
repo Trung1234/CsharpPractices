@@ -13,8 +13,6 @@
  -  ### Performace:  
      -  https://docs.microsoft.com/en-us/ef/core/performance/efficient-querying#tracking-no-tracking-and-identity-resolution
 
- ## Interview with C# Corner MVP Ankit Sharma:
- - https://docs.microsoft.com/en-us/archive/blogs/wikininjas/interview-with-a-asp-net-wiki-ninja-and-c-corner-mvp-ankit-sharma
  ## difference between GET and POST method:
  - https://www.edureka.co/blog/get-and-post-method/
 
