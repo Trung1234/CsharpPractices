@@ -18,10 +18,12 @@
  -  #### Rule 13: Avoid Deep Nesting
  -  #### Rule 14: Use ternary operator instead of If else
  -  #### Rule 15: Avoid Magic Number https://stackoverflow.com/questions/47882/what-is-a-magic-number-and-why-is-it-bad
+ -  References: 
+    -  ### https://www.informit.com/articles/article.aspx?p=2223710
+    -  ### https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
 </details>  
      
-     -  https://www.informit.com/articles/article.aspx?p=2223710
-     -  https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
+     
 -  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
 -  #### Data encryption: https://tedu.com.vn/bao-mat/tong-quan-cac-loai-thuat-toan-ma-hoa-du-lieu-106.html
 -  #### Has256: https://www.c-sharpcorner.com/article/compute-sha256-hash-in-c-sharp/
