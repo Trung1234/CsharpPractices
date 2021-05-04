@@ -46,6 +46,7 @@
     <summary>Click to expand</summary>
  
    -  https://www.c-sharpcorner.com/UploadFile/a20beb/ienumerable-vs-iqueryable-in-linq/k/
+   -  https://trungsieunhan24blog.wordpress.com/2018/10/30/3-loa%cc%a3i-excution-trong-linq/
    -  https://tedu.com.vn/lap-trinh-c/su-khac-nhau-giua-ienumerable-va-iqueryable-35.html
    -  #### Earger loading: https://tedu.com.vn/lap-trinh-aspnet/tim-hieu-ve-lazyloading-va-earger-loading-trong-entity-framework-120.html
    -  #### Left join: https://www.c-sharpcorner.com/blogs/working-with-left-outer-join-using-lambda-and-linq
