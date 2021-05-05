@@ -8,7 +8,7 @@
    -  #### Rule 3: Don't Repeat Yourself => generalize by abstract class, interface, method
    -  #### Rule 4: Create meaningful names
    -  #### Rule 5: Be Consistent with source code (có tính thống nhất)
-   -  #### Rule 6: Do Code run fast (For example use Eager loading to load related entities )
+   -  #### Rule 6: Does Code run fast (For example use Eager loading to load related entities )
    -  #### Rule 7: Avoid Security Pitfalls (SQL Injection, cross-site scripting)
    -  #### Rule 8: Use Efficient Data Structures and Algorithms
    -  #### Rule 9: Comment and Document
