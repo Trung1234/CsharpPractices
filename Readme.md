@@ -4,20 +4,19 @@
     <summary>Click to expand</summary>
 
    -  #### Rule 1: Formatting is king     
-   -  #### Rule 2: Is code easy to understand
-   -  #### Rule 3: Follow SOLID Principles
-   -  #### Rule 4: Don't Repeat Yourself => generalize by abstract class, interface, method
-   -  #### Rule 5: Create meaningful names
-   -  #### Rule 6: Be Consistent (nhất quán)
-   -  #### Rule 7: Do Code run fast (For example use Eager loading to load related entities )
-   -  #### Rule 8: Avoid Security Pitfalls (SQL Injection, cross-site scripting)
-   -  #### Rule 9: Use Efficient Data Structures and Algorithms
-   -  #### Rule 10: Comment and Document
-   -  #### Rule 11: Check for Errors and Respond to Them
-   -  #### Rule 12: Follow the Coding convention
-   -  #### Rule 13: Avoid Deep Nesting
-   -  #### Rule 14: Use ternary operator instead of If else
-   -  #### Rule 15: Do not hard code (Avoid Magic Number https://stackoverflow.com/questions/47882/what-is-a-magic-number-and-why-is-it-bad)
+   -  #### Rule 2: Follow SOLID Principles
+   -  #### Rule 3: Don't Repeat Yourself => generalize by abstract class, interface, method
+   -  #### Rule 4: Create meaningful names
+   -  #### Rule 5: Be Consistent with source code (có tính thống nhất)
+   -  #### Rule 6: Do Code run fast (For example use Eager loading to load related entities )
+   -  #### Rule 7: Avoid Security Pitfalls (SQL Injection, cross-site scripting)
+   -  #### Rule 8: Use Efficient Data Structures and Algorithms
+   -  #### Rule 9: Comment and Document
+   -  #### Rule 10: Check for Errors and Respond to Them
+   -  #### Rule 11: Follow the Coding convention
+   -  #### Rule 12: Avoid Deep Nesting
+   -  #### Rule 13: Use ternary operator instead of If else
+   -  #### Rule 14: Do not hard code (Avoid Magic Number https://stackoverflow.com/questions/47882/what-is-a-magic-number-and-why-is-it-bad)
    -  References: 
       -  ### https://www.informit.com/articles/article.aspx?p=2223710
       -  ### https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
