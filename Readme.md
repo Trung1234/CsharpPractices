@@ -8,7 +8,7 @@
    -  #### Rule 3: Don't Repeat Yourself => generalize by abstract class, interface, method
    -  #### Rule 4: Create meaningful names
    -  #### Rule 5: Be Consistent with source code (có tính thống nhất)
-   -  #### Rule 6: Do Code run fast (For example use Eager loading to load related entities )
+   -  #### Rule 6: Does Code run fast (For example use Eager loading to load related entities )
    -  #### Rule 7: Avoid Security Pitfalls (SQL Injection, cross-site scripting)
    -  #### Rule 8: Use Efficient Data Structures and Algorithms
    -  #### Rule 9: Comment and Document
@@ -17,6 +17,7 @@
    -  #### Rule 12: Avoid Deep Nesting
    -  #### Rule 13: Use ternary operator instead of If else
    -  #### Rule 14: Do not hard code (Avoid Magic Number https://stackoverflow.com/questions/47882/what-is-a-magic-number-and-why-is-it-bad)
+   -  #### Rule 15: **Does this code fulfill  requirements**
    -  References: 
       -  ### https://www.informit.com/articles/article.aspx?p=2223710
       -  ### https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
