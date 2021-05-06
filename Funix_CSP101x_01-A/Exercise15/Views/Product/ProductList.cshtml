@@ -1,0 +1,26 @@
+@using Exercise15.Models
+@model ProductListVM
+
+@{
+    var start = this.Model.Discount.Start.ToString("d");
+    var end = this.Model.Discount.End.ToString("d");
+    var rate = this.Model.Discount.Rate;
+    var off = (1 - rate) * 100;
+}
+
+<html>
+<body>
+<h1>Product List</h1>
+<h4 style="color: blue">The @off% off discount will be valid from @start to @end!</h4>
+<table border="1">
+    <tr>
+        <th>ID</th><th>Name</th><th>Price</th><th>Discount Price</th>
+    </tr>
+    @foreach (var p in this.Model.Products){
+        <tr>
+            <td>@p.ID</td><td>@p.Name</td><td>@p.Price</td><td>@(p.Price * rate)</td>
+        </tr>
+    }
+</table>
+</body>
+</html>

@@ -1,0 +1,47 @@
+Lab Overview
+In this lab, we will put all the things we learned in this course together. The skills we will use in this lab include:
+
+Scaffold the models and data access layer using Entity Framework Core
+Create controllers and actions for city and country management
+Create layout views, functional views, and partial views to render cities and countries
+Other skills, such as master-detail page, uploading files, etc.
+Operation Guideline
+Prepare The world Database
+If we compare creating a web application with building a skyscraper, the database to the application is the foundation to the skyscraper. Without exceptions, let's start from the database preparation.
+
+In this lab, we will use a MySQL sample database, the world database, as the data layer for our web application. This database should already be present from the install of MySQL.
+
+Run the MySQL Workbench to check if you have this database. If you don't see the world database in the SCHEMAS panel, or your world database is damaged for some reasons, open the world.sql file in the Lab_Starter_Files\Module_5 folder and execute the SQL script from within MySQL Workbench. This will generate the world database for MySQL.
+
+To simplify the business model, we drop the countrylanguage table and remove most of the columns of the country table. To do this, execute the SQL commands below in the MySQL Workbench:
+
+USE `world`;
+DROP TABLE `countrylanguage`;
+ALTER TABLE `country`
+DROP COLUMN `Continent`,
+DROP COLUMN `SurfaceArea`,
+DROP COLUMN `IndepYear`,
+DROP COLUMN `Population`,
+DROP COLUMN `LifeExpectancy`,
+DROP COLUMN `GNP`,
+DROP COLUMN `GNPOld`,
+DROP COLUMN `LocalName`,
+DROP COLUMN `GovernmentForm`,
+DROP COLUMN `HeadOfState`,
+DROP COLUMN `Capital`,
+DROP COLUMN `Code2`;
+Since the country table of the original world database doesn't have the NationalFlag column, we have to add this column by executing the code below:
+
+NOTE: The Default mode for MySQL Workbench is to use Safe mode for table updates. To ensure the following code executes successfully, perform these steps first:
+
+With a query window open in the Workbench, open the Edit menu and select Preferences
+Select SQL Editor from the General Editors pane on the left
+In the right pane, scroll down until you find the Safe Updates check box
+Clear that check box
+Click OK to apply the change and close the dialog box
+On the button bar of the Workbench, locate and click the Reconnect to DBMS button
+Proceed to the code below
+USE `world`;
+ALTER TABLE `country` ADD COLUMN `NationalFlag` NVARCHAR(200);
+UPDATE `country` SET `NationalFlag` = 'Images//Default.png';
+Then, execute SELECT * FROM `country`; to check if the NationalFlag field of all rows are set to Images/Default.png.
