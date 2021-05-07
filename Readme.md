@@ -5,7 +5,7 @@
 
    -  #### Rule 1: Formatting is king     
    -  #### Rule 2: Follow SOLID Principles
-   -  #### Rule 3: Don't Repeat Yourself => generalize by abstract class, interface, method
+   -  #### Rule 3: Don't Repeat Yourself => generalize by abstract class, interface, generic, method
    -  #### Rule 4: Create meaningful names
    -  #### Rule 5: Be Consistent with source code (có tính thống nhất)
    -  #### Rule 6: Does Code run fast (For example use Eager loading to load related entities )
