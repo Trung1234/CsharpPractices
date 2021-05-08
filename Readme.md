@@ -51,7 +51,8 @@
    -  #### Earger loading: https://tedu.com.vn/lap-trinh-aspnet/tim-hieu-ve-lazyloading-va-earger-loading-trong-entity-framework-120.html
    -  #### Left join: https://www.c-sharpcorner.com/blogs/working-with-left-outer-join-using-lambda-and-linq
   </details>
-       
+
+-  ### 	Relationship : https://www.c-sharpcorner.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/
 -  ### 	Export
    -  #### Excel: https://help.syncfusion.com/wpf/datagrid/export-to-excel
    -  #### Epplus: https://www.c-sharpcorner.com/article/import-and-export-data-using-epplus-core/
