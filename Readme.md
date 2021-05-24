@@ -17,7 +17,7 @@
    -  #### Rule 12: Avoid Deep Nesting
    -  #### Rule 13: Use ternary operator instead of If else
    -  #### Rule 14: Do not hard code (Avoid Magic Number https://stackoverflow.com/questions/47882/what-is-a-magic-number-and-why-is-it-bad)
-   -  #### Rule 15: Does that code fulfill  requirements**
+   -  #### Rule 15: Does that code fulfill  requirements
    -  References: 
       -  ### https://www.informit.com/articles/article.aspx?p=2223710
       -  ### https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
