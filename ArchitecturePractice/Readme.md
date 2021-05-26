@@ -1,5 +1,7 @@
 
 ### Design Pattern:  
+  -  https://edwardthienhoang.wordpress.com/2013/12/13/design-pattern-mo-dau/
+  -  https://edwardthienhoang.wordpress.com/2013/12/13/strategy-pattern-chien-luoc-voi-nhung-thay-doi/
   -  https://www.c-sharpcorner.com/UploadFile/akkiraju/factory-design-pattern-vs-factory-method-design-pattern/
   -  https://www.c-sharpcorner.com/UploadFile/97fc7a/factory-pattern-in-net-with-an-example/
   -  https://trungsieunhan24blog.wordpress.com/2018/12/23/strategy-pattern-va-nguyen-ly-ocp-trong-c/
