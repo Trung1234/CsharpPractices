@@ -1,5 +1,6 @@
 
 ### Design Pattern:  
+  -  https://edwardthienhoang.wordpress.com/software-architecture/
   -  https://edwardthienhoang.wordpress.com/2013/12/13/design-pattern-mo-dau/
   -  https://edwardthienhoang.wordpress.com/2013/12/13/strategy-pattern-chien-luoc-voi-nhung-thay-doi/
   -  https://www.c-sharpcorner.com/UploadFile/akkiraju/factory-design-pattern-vs-factory-method-design-pattern/
