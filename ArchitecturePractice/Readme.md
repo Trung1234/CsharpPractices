@@ -3,7 +3,7 @@
   -  https://edwardthienhoang.wordpress.com/software-architecture/
   -  https://edwardthienhoang.wordpress.com/2013/12/13/design-pattern-mo-dau/
   -   <details>
-      <summary>Common Design Pattern</summary>
+      <summary>Click to expand</summary>
 
      -  https://edwardthienhoang.wordpress.com/2013/12/13/strategy-pattern-chien-luoc-voi-nhung-thay-doi/ 
      -  https://www.c-sharpcorner.com/UploadFile/97fc7a/factory-pattern-in-net-with-an-example/
