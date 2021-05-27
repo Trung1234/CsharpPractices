@@ -1,13 +1,14 @@
-﻿using FactoryPatternDemo.Common;
+﻿using FactoryPattern.Common;
+using FactoryPattern.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace FactoryPatternDemo.Factory
+namespace FactoryPattern.Factory
 {
     public class CarFactory
     {
-        public void ViewCar(Constants.CarEnum carName)
+        public void CreateFactory(Constants.CarEnum carName)
         {
             ICar car;
             if (carName.Equals(Constants.CarEnum.Hyundai))

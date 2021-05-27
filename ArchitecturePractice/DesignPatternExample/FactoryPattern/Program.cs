@@ -1,15 +1,15 @@
-﻿using FactoryPatternDemo.Common;
-using FactoryPatternDemo.Factory;
+﻿using FactoryPattern.Common;
+using FactoryPattern.Factory;
 using System;
 
-namespace FactoryPatternDemo
+namespace FactoryPattern
 {
     class Program
     {
         static void Main(string[] args)
         {
             CarFactory carFactory = new CarFactory();
-            carFactory.ViewCar(Constants.CarEnum.Hyundai);
+            carFactory.CreateFactory(Constants.CarEnum.Hyundai);
             Console.ReadLine();
         }
     }

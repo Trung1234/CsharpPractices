@@ -4,27 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatternExample
+namespace Models
 {
     /// <summary>
     /// Steak và Pizza chính là các Concrete Command.
     /// </summary>
-    public class Steak : IOrder
+    public class Pizza : IOrder
     {
-        private SteakChef chef;
+        private PizzaChef chef;
 
-        public Steak()
+        public Pizza()
         {
-            this.chef = new SteakChef();
+            this.chef = new PizzaChef();
         }
         public void Execute()
         {
-            chef.makeSteak();
+            chef.MakePizza();
         }
 
         public override string ToString()
         {
-            return nameof(Steak);
+            return nameof(Pizza);
         }
     }
 }

@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatternExample
+namespace Models
 {
     /// <summary>
     /// Steak Chef và Pizza Chef đóng vai trò Receiver.
     /// </summary>
-    public class PizzaChef
+    public class SteakChef
     {
-        public void MakePizza()
+        public void makeSteak()
         {
-            Console.WriteLine("I'm making pizza");
+            Console.WriteLine("I'm making steak");
         }
     }
 }

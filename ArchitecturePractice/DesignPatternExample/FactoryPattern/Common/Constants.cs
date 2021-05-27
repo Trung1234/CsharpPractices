@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FactoryPatternDemo.Common
+namespace FactoryPattern.Common
 {
     public class Constants
     {

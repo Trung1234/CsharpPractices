@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatternExample
+namespace Models
 {
     /// <summary>
     /// đây có thể là một interface hoặc abstract class,

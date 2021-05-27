@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FactoryPatternDemo
+namespace FactoryPattern.Models
 {
     public class Mercedes : ICar
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatternExample
+namespace Models
 {
     /// <summary>
     /// Waiter sẽ là cầu nối giữa Customer và Chef: Invoker.
