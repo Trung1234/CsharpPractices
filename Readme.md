@@ -3,8 +3,8 @@
    <details>
     <summary>Click to expand</summary>
 
-   -  #### Rule 1: Formatting is king     
-   -  #### Rule 2: Follow SOLID Principles
+   -  #### Rule 1: Does that code fulfill  requirements    
+   -  #### Rule 2: Formatting is king
    -  #### Rule 3: Don't Repeat Yourself => generalize by abstract class, interface, generic, method
    -  #### Rule 4: Create meaningful names
    -  #### Rule 5: Be Consistent with source code (có tính thống nhất)
@@ -17,7 +17,7 @@
    -  #### Rule 12: Avoid Deep Nesting
    -  #### Rule 13: Use ternary operator instead of If else
    -  #### Rule 14: Do not hard code (Avoid Magic Number-> use Constants and Enum) https://stackoverflow.com/questions/47882/what-is-a-magic-number-and-why-is-it-bad)
-   -  #### Rule 15: Does that code fulfill  requirements
+   -  #### Rule 15: Follow SOLID Principles
    -  References: 
       -  ### https://www.informit.com/articles/article.aspx?p=2223710
       -  ### https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
