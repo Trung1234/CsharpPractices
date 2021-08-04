@@ -34,6 +34,8 @@
   -  #### String and StringBuilder: https://www.c-sharpcorner.com/UploadFile/19b1bd/comparison-of-string-and-stringbuilder-in-C-Sharp/
   -  https://www.c-sharpcorner.com/UploadFile/b926a6/create-crystal-report-step-by-step-using-sql-database-view/ 
   -  #### Callback: https://toidicodedao.com/2015/02/10/series-c-hay-ho-callback-trong-c-delegate-action-predicate-func/
+-  #### Unit test: https://trungsieunhan24blog.wordpress.com/2018/06/12/unittest-va-cach-viet/
+      - Use AxoCover to display sequence and branch coverage in the code editor: https://marketplace.visualstudio.com/items?itemName=axodox1.AxoCover
 - ### Async
   <details>
     <summary>Click to expand</summary>
