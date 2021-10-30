@@ -29,6 +29,7 @@
   -  #### SQL Best Practice: https://github.com/Trung1234/Csharp4/tree/main/SQlPractice
   -  https://haodev.wordpress.com/2021/03/25/devup-chicken-soup-for-developers/
   -  #### Data encryption: https://tedu.com.vn/bao-mat/tong-quan-cac-loai-thuat-toan-ma-hoa-du-lieu-106.html
+  -  Bscrypt: https://jasonwatmore.com/post/2020/07/16/aspnet-core-3-hash-and-verify-passwords-with-bcrypt
   -  #### Has256: https://www.c-sharpcorner.com/article/compute-sha256-hash-in-c-sharp/
   -  ####  == and Equals(): https://www.c-sharpcorner.com/UploadFile/3d39b4/difference-between-operator-and-equals-method-in-C-Sharp/
   -  #### String and StringBuilder: https://www.c-sharpcorner.com/UploadFile/19b1bd/comparison-of-string-and-stringbuilder-in-C-Sharp/
