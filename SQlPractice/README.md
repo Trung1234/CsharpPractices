@@ -11,7 +11,7 @@
  - Functions that return tables can be treated as another rowset. This can be used in JOINs with other tables.
  - Inline Function can be though of as views that take parameters and can be used in JOINs and other Rowset operations.
  - An exception can be handled by try-catch block in a Procedure whereas try-catch block cannot be used in a Function.
- - We can use Transactions in Procedure whereas we can't use Transactions in Functin
+ - We can use Transactions in Procedure whereas we can't use Transactions in Function
 
 ### Database Design Tips: 
  - https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5
