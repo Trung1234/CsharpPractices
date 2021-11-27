@@ -7,6 +7,7 @@
 ## Reference 
  - https://www.sqlservertutorial.net/sql-server-indexes/sql-server-clustered-indexes/
  - https://www.codelean.vn/2019/12/mysql-25-index-chi-muc.html
+ - https://viblo.asia/p/su-dung-explain-de-toi-uu-cau-lenh-mysql-BYjv44gmvxpV
  - https://viblo.asia/p/index-duoc-va-mat-gAm5yRXAKdb
  - https://viblo.asia/p/25-tip-de-tang-hieu-suat-cho-cau-lenh-sql-MgNeWXZgkYx
  - #### Optimize query:  https://www.sisense.com/blog/8-ways-fine-tune-sql-queries-production-databases/ 
