@@ -58,6 +58,7 @@
   </details>
 
 -  ### 	Relationship : https://www.c-sharpcorner.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/
+-  ### 	Custom Authentication In ASP.NET Core 3.1 : https://www.c-sharpcorner.com/article/login-and-role-based-custom-authentication-in-asp-net-core-3-1/
 -  ### 	Export
    -  #### Excel: https://help.syncfusion.com/wpf/datagrid/export-to-excel
    -  #### Epplus: https://www.c-sharpcorner.com/article/import-and-export-data-using-epplus-core/
