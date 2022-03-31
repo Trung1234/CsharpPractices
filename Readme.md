@@ -39,7 +39,7 @@
 -  #### Unit test: https://trungsieunhan24blog.wordpress.com/2018/06/12/unittest-va-cach-viet/
       - Use AxoCover to display sequence and branch coverage in the code editor: https://marketplace.visualstudio.com/items?itemName=axodox1.AxoCover
       - Xunit https://www.c-sharpcorner.com/article/implementing-unit-and-integration-tests-on-net-with-xunit/
-           + To generate report : Tools -> NuGet Package Manager -> Package Manager Console 
+           + To generate coverage report : Tools -> NuGet Package Manager -> Package Manager Console 
                + dotnet test --collect:"XPlat Code Coverage"
                + reportgenerator -reports:"YourGeneratedXML" -targetdir:"coveragereport" -reporttypes:Html
 - ### Async
