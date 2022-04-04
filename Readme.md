@@ -44,10 +44,11 @@
     -  https://docs.microsoft.com/en-us/visualstudio/test/run-unit-tests-with-test-explorer?view=vs-2022
     - Use AxoCover to display sequence and branch coverage in the code editor: https://marketplace.visualstudio.com/items?itemName=axodox1.AxoCover
     - Xunit https://www.c-sharpcorner.com/article/implementing-unit-and-integration-tests-on-net-with-xunit/
-           + Moq Mocking Framework: https://www.c-sharpcorner.com/article/moq-mocking-framework-with-xunit-net-testing-fr/
-           + To generate coverage report : Tools -> NuGet Package Manager -> Package Manager Console 
-               + dotnet test --collect:"XPlat Code Coverage"
-               + reportgenerator -reports:"YourGeneratedXML" -targetdir:"coveragereport" -reporttypes:Html
+ 
+              + Moq Mocking Framework: https://www.c-sharpcorner.com/article/moq-mocking-framework-with-xunit-net-testing-fr/
+              + To generate coverage report : Tools -> NuGet Package Manager -> Package Manager Console 
+                    + dotnet test --collect:"XPlat Code Coverage"
+                    + reportgenerator -reports:"YourGeneratedXML" -targetdir:"coveragereport" -reporttypes:Html
   </details>
       
 - ### Async
