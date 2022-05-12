@@ -20,6 +20,7 @@
  - https://www.astera.com/type/blog/all-you-need-to-know-about-database-design/
 ## Reference 
  - https://www.sqlservertutorial.net/sql-server-indexes/sql-server-clustered-indexes/
+ - https://xuanthulab.net/su-dung-cursor-trong-sql-server.html
  - ### Nomal Form: https://viblo.asia/p/chuan-hoa-co-so-du-lieu-quan-he-bWrZnLrY5xw
  - https://www.codelean.vn/2019/12/mysql-25-index-chi-muc.html
  - https://viblo.asia/p/su-dung-explain-de-toi-uu-cau-lenh-mysql-BYjv44gmvxpV
