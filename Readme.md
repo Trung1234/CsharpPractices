@@ -40,7 +40,6 @@
    <details>
     <summary>Click to expand</summary>
  
-    -  https://trungsieunhan24blog.wordpress.com/2018/06/12/unittest-va-cach-viet/
     -  https://docs.microsoft.com/en-us/visualstudio/test/run-unit-tests-with-test-explorer?view=vs-2022
     - Use AxoCover to display sequence and branch coverage in the code editor: https://marketplace.visualstudio.com/items?itemName=axodox1.AxoCover
     - Xunit https://www.c-sharpcorner.com/article/implementing-unit-and-integration-tests-on-net-with-xunit/
@@ -81,7 +80,6 @@
 -  ### Upload and Read Excel File:  
    -  https://www.codingvila.com/2021/02/upload-and-read-excel-file-in-web-api.html
 -  ### EntityFramework:  
-   -  #### Fluent Api: https://trungsieunhan24blog.wordpress.com/2018/11/13/cach-dung-fluent-api-de%CC%89-thay-do%CC%89i-mo-hinh-quan-he%CC%A3/
    -  #### Cascade Delete: https://docs.microsoft.com/en-us/ef/core/saving/cascade-delete
    -  #### Tracking:  https://docs.microsoft.com/en-us/ef/core/querying/tracking
    -  #### Index: https://docs.microsoft.com/en-us/ef/core/modeling/indexes?tabs=data-annotations
