@@ -84,6 +84,7 @@
    -  #### Tracking:  https://docs.microsoft.com/en-us/ef/core/querying/tracking
    -  #### Index: https://docs.microsoft.com/en-us/ef/core/modeling/indexes?tabs=data-annotations
    -  #### Relationship: https://docs.microsoft.com/en-us/ef/core/modeling/relationships?tabs=data-annotations%2Cfluent-api-simple-key%2Csimple-key#required-and-optional-relationships
+- Global Error handling: https://code-maze.com/global-error-handling-aspnetcore/
 - ## Code review guidelines:
   - https://www.michaelagreiler.com/code-review-checklist-2/
   - https://www.c-sharpcorner.com/article/important-tips-to-write-clean-code-in-visual-studio/
